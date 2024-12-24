@@ -1,7 +1,7 @@
-# Articles by Sebastien M.Laignel
+# My publications
 
-Welcome to the comprehensive list of articles I’ve authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, and **Python development**. Explore the concepts, strategies, and tools that power modern trading and automation.
-
+Welcome to the comprehensive list of articles I’ve authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, and **Python development**. 
+Articles can be read at https://medium.com/@sl_mar.
 ---
 
 ## **Articles**
@@ -81,7 +81,7 @@ Welcome to the comprehensive list of articles I’ve authored, focusing on **qua
 
 ---
 
-### **5. Miscellaneous**
+### **5. General AI**
 - [**2050 World Forecast: Insights from AI Futurist & Policy Advisor**](#)  
   *Published on Nov 21, 2023 · 4 min read*
 
@@ -90,6 +90,20 @@ Welcome to the comprehensive list of articles I’ve authored, focusing on **qua
   *In AI Advances*
 
 ---
+### **6. International Maritime Law**
+- [**Une analyse de la sentence arbitrale rendue dans le
+différend maritime du Golfe de Piran entre la Slovénie
+et la Croatie**](#)  
+  *Published on Oct 10, 2024 *
+
+---
+### **7. Ship operations**
+- [**L'exploitation des navires citernes: pétroliers; chimiquiers; gaziers**](#)  
+  *Published on Nov 18, 2008 by Editor Infomer - 424 pages*
+  
+
+
+
 
 ## **Connect with Me**
 If you find my articles useful or interesting, feel free to explore my [GitHub](https://github.com/SL-Mar) for related projects or connect with me for collaboration opportunities.
