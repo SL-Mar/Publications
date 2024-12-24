@@ -1,4 +1,4 @@
-# Articles by [Your Name]
+# Articles by Sebastien M.Laignel
 
 Welcome to the comprehensive list of articles I’ve authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, and **Python development**. Explore the concepts, strategies, and tools that power modern trading and automation.
 
