@@ -98,7 +98,7 @@ et la Croatie**](#)
 
 ---
 ### **7. Ship operations**
-- [**L'exploitation des navires citernes: pétroliers; chimiquiers; gaziers**](#)  
+- [**L'exploitation des navires citernes: pétroliers, chimiquiers, gaziers**](#)  
   *Published on Nov 18, 2008 by Editor Infomer - 424 pages*
   
 
