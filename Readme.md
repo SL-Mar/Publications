@@ -1,7 +1,7 @@
 # My publications
 
-Welcome to the comprehensive list of articles I’ve authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, and **Python development**. 
-Articles can be read at https://medium.com/@sl_mar.
+### Welcome to the comprehensive list of articles I’ve authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, and **Python development**. 
+### Articles can be read at https://medium.com/@sl_mar.
 ---
 
 ## **Articles**
