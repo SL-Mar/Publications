@@ -84,7 +84,8 @@ Articles can be read at https://medium.com/@sl_mar.
 ### **5. General AI**
 - [**2050 World Forecast: Insights from AI Futurist & Policy Advisor**](#)  
   *Published on Nov 21, 2023 · 4 min read*
-
+  *In AI Advances*
+  
 - [**Exploring Climate Challenges: A Simulated AI Dialogue Between Policy Maker and Climate Expert**](#)  
   *Published on Nov 20, 2023 · 9 min read*  
   *In AI Advances*
@@ -94,13 +95,14 @@ Articles can be read at https://medium.com/@sl_mar.
 - [**Une analyse de la sentence arbitrale rendue dans le
 différend maritime du Golfe de Piran entre la Slovénie
 et la Croatie**](#)  
-  *Published on Oct 10, 2024 *
+  *Published on Oct 10, 2024*
+  *In Neptune, Centre de droit maritime et océanique, Université de Nantes*
 
 ---
 ### **7. Ship operations**
 - [**L'exploitation des navires citernes: pétroliers, chimiquiers, gaziers**](#)  
-  *Published on Nov 18, 2008 by Editor Infomer - 424 pages*
-  
+  *Published on Nov 18, 2008*
+  *By Infomer - 424 pages*
 
 
 
