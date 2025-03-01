@@ -7,7 +7,7 @@
 ## **Articles**
 
 ### **1. Quantitative Finance & Trading**
-- [**Trading Small Caps**](#)  
+- [**Trading Small Caps**](https://medium.com/insiderfinance/trading-small-caps-6dc50edf10a8)  
   *The difficult exercise of balancing risk and reward*  
   *Published on Dec 16, 2024 · 8 min read*  
   *In InsiderFinance Wire*
