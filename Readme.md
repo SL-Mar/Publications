@@ -1,7 +1,7 @@
 # My publications
 
 ### Welcome to a non-exhaustive list of articles I have authored, focusing on **quantitative finance**, **algorithmic trading**, **AI applications**, **Python development**, and maritime law. 
-### Most of the articles can be read at https://medium.com/@sl_mar.
+### A more comprehensive list of articles is available at https://medium.com/@sl_mar.
 ---
 
 ## **Main Articles**
@@ -108,8 +108,8 @@ et la Croatie**](https://scanr.enseignementsup-recherche.gouv.fr/publications/ha
 
 
 ## **Connect with Me**
-If you find my articles useful or interesting, feel free to explore my [GitHub](https://github.com/SL-Mar) for related projects or connect with me for collaboration opportunities. For over 25 years, and continuing for the foreseeable future, I've spent half my time at sea, writing outside of a traditional academic setting. This undoubtedly presents challenges to my progress. However, my long-term goal remains: to fully automate research in quantitative finance and theoretical physics.
+For over 27 years, and continuing for the foreseeable future, I've spent half my time at sea, writing outside of a traditional academic setting. This undoubtedly presents challenges to my progress. However, my long-term goal remains: to fully automate research in quantitative finance and theoretical physics.If you find these projects interesting, feel free to explore my [GitHub](https://github.com/SL-Mar) or connect with me for collaboration opportunities.
 
 ---
 
-**Thank you for exploring my articles! 🚀**
+
